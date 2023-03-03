@@ -26,8 +26,13 @@ body {
   -webkit-text-stroke: 1px black
 }
 
+#palavras {
+  transition: opacity 1s ease-out;
+}
+
 #palavra-teste {
   color: #00c7d9;
+  transition: opacity 1s ease-out;
 }
 
 .container .teste {
