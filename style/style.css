@@ -21,10 +21,17 @@ body {
 }
 
 .container span {
-  position: absolute;
-  top: 300px;
-  left: 150px;
   font-size: 55px;
   color: white;
   -webkit-text-stroke: 1px black
+}
+
+#palavra-teste {
+  color: #00c7d9;
+}
+
+.container .teste {
+  position: absolute;
+  top: 300px;
+  left: 150px;
 }
